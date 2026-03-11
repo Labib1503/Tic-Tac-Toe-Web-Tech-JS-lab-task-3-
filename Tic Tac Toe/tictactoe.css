@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    margin:auto;
+    border-collapse: collapse;
+}
+td{
+    width:100px;
+    height:100px;
+    border:2px solid black;
+    font-size:50px;
+    text-align:center;
+    cursor: pointer;
+}
+button{
+    margin-top:20px;
+    padding:10px 20px;
+    font-size:16px;
+}
